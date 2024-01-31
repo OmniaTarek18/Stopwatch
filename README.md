@@ -1,11 +1,5 @@
 # Stopwatch
 stopwatch web application
-## Demo
-
-
-https://github.com/OmniaTarek18/Stopwatch/assets/120803508/2d0bc0d3-f3ac-4f50-8b45-28921d44a28b
-
-
 
 ## Project setup
 ```
