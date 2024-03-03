@@ -1,5 +1,5 @@
 # Stopwatch
-stopwatch web application hope you like it
+stopwatch web application
 
 
 ## Project setup
