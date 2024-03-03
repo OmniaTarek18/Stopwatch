@@ -1,5 +1,5 @@
 # Stopwatch
-stopwatch web application
+stopwatch web application using vue.js
 
 ## Project setup
 ```
